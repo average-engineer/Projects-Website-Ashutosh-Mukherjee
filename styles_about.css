@@ -1,0 +1,92 @@
+/*Master Styles*/
+body{
+    margin: 10px;
+    /* font-family: Arial, Helvetica, sans-serif; */
+}
+
+.container{
+    display: grid;
+    grid-template-columns: 1fr;
+}
+
+
+/* Navigation bar styles */
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+.leftcol{
+    display: flex;
+}
+
+.navbar>.leftcol>div{
+    margin-right: 10px;
+    font-size: 1.2em;
+}
+
+.link1{
+    height: 22px;
+    border-bottom: 1px solid transparent;
+    transition: border-bottom 0.5s;
+}
+
+.link2{
+    height: 22px;
+    border-bottom: 1px solid transparent;
+    transition: border-bottom 0.5s;
+}
+
+.link1 a {
+    color: #8a8a8a;
+    text-decoration : none;
+    transition: color 0.5s
+}
+
+.link2 a {
+    color: #8a8a8a;
+    text-decoration: none;
+    transition: color 0.5s
+}
+
+.link1 :hover{
+    border-bottom: 1px solid black;
+}
+
+.link1 a :hover{
+    color: black;
+}
+
+.link2 :hover{
+    border-bottom: 1px solid black;
+}
+
+.link2 a :hover{
+    color: black;
+}
+
+.active-nav-link {
+    border-bottom: 1px solid black;
+}
+
+.active-nav-link a{
+    color: black;
+}
+
+/*About content styles*/
+.twocolcontent{
+    display: grid;
+    grid-template-columns: 1.2fr 1.5fr;
+    justify-content: space-evenly;
+}
+
+.profilecontent {
+    padding: 30px;
+    font-size: 16pt;
+}
+
+.contactinfo{
+    font-weight: 600;
+    font-size: 16pt;
+}
