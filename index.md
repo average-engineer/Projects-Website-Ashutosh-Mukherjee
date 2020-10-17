@@ -69,7 +69,7 @@
                     </div>
                     <div class="portfolioitem">
                         <div class="subtitle">
-                            Forward of a 2R Robotic Arm
+                            Forward Kinematics of a 2R Robotic Arm
                         </div>
                         <div class="projectreportlink">
                             <a href="https://skill-lync.com/projects/Simulation-of-forward-kinematics-of-a-2R-Robotic-Arm-20145"><img src="robotic arm.png"></a>
@@ -85,7 +85,7 @@
                     </div>
                                         <div class="portfolioitem">
                         <div class="subtitle">
-                            Finite element analysis of train wheel moving on a rail track
+                            Simulation of train wheel moving on a rail track
                         </div>
                         <div class="projectreportlink">
                             <a href="https://skill-lync.com/projects/week-2-railwheel-and-track-7"><img src="rail_wheel.png"></a>
