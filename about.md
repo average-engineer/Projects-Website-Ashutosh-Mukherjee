@@ -25,14 +25,14 @@
             <div class="content">
                 <div class="twocolcontent">
                     <div class="profileimage">
-                        <img src="Images\image.PNG" height="550px" width="95%">
+                        <img src="image.PNG" height="550px" width="95%">
                     </div>
                     <div class="profilecontent">
                         <h2>About Me</h2>
-                        <p>I am Ashutosh Mukherjee and I am an aspiring Mechanical Engineer. I have graduated from Punjab Engineering College, Chandigarh in 2020 and will be pursuing my master's degree in aerospace structures from Cranfield University, United Kingdom.</p> 
-                            <p>I have keen interests in structural and solid mechanics.
-                            During the course of my undergraduate education, I have done several personal projects related to the concepts learnt in the undergraduate curricullum of Mechanical Engineering. 
-                            My interests lie in structural mechanics and mechanical vibrations. In my final year, I have worked on designing propellers via my major capstone project which has also increased my interest in the field.</p> 
+                        <p>I am Ashutosh Mukherjee and I am an aspiring Mechanical Engineer. I have graduated from Punjab Engineering College, Chandigarh in 2020 and am currently a research associate in Thapar Institute of Engineering and Technology, Patiala, India.</p> 
+                            <p>I have keen interests in structural and solid mechanics, manipulator dynamics and mechanical vibrations.
+                            During the course of my undergraduate education, I have done independent personal projects related to the concepts learnt in the undergraduate curricullum of Mechanical Engineering including gas and vapour powered thermodynamic engines, single and multiple DOF system vibrations, forward and inverse manipulator kinematics, various optimization algorithms and basic aerodynamics. I also have experience in finite element and multi-body simulations using industry standard softwares like ANSYS workbench and MSC ADAMS. 
+                            My interests lie in structural mechanics and mechanical vibrations. In my final year, I have worked on designing propellers via my major capstone project which has increased my interest in the field.</p> 
                     </div>
                     <div class="contactinfo">
                         <div class="heading">
