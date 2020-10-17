@@ -91,6 +91,30 @@
                             <a href="https://skill-lync.com/projects/Slider-Crank-Mechanism-Simulation-38417"><img src="slider crank.jpg"></a>
                         </div>
                     </div>
+                                        <div class="portfolioitem">
+                        <div class="subtitle">
+                            Finite element analysis of train wheel moving on a rail track
+                        </div>
+                        <div class="projectreportlink">
+                            <a href="https://skill-lync.com/projects/week-2-railwheel-and-track-7"><img src="rail_wheel.png"></a>
+                        </div>
+                    </div>
+                    <div class="portfolioitem">
+                        <div class="subtitle">
+                            Sheet Metal Bending Simulation
+                        </div>
+                        <div class="projectreportlink">
+                            <a href="https://skill-lync.com/projects/week-3-sheet-metal-bending-challenge-9"><img src="sheet_bending.png"></a>
+                        </div>
+                    </div>
+                    <div class="portfolioitem">
+                        <div class="subtitle">
+                            Finite Element simulation of a wire bending process
+                        </div>
+                        <div class="projectreportlink">
+                            <a href="https://skill-lync.com/projects/week-4-wire-bending-challenge-9"><img src="wire_beding.png"></a>
+                        </div>
+                    </div>
                     <div class="portfolioitem">
                         <div class="subtitle">
                             Simulation of a Cam-follower mechanism
