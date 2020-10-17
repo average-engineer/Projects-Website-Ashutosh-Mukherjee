@@ -9,7 +9,10 @@ body{
     grid-template-columns: 1fr;
 }
 
-
+.maincontent{
+    display: grid;
+    grid-template-rows: 1cm 2cm;
+}
 
 
 /* Navigation bar styles */
