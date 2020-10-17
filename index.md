@@ -25,8 +25,10 @@
             <div class="maincontent">
                 <div class="projects">
                     <h2>PROJECTS UNDERTAKEN</h2>
-                    (Please click the project images to access the technical reports/PPTs for each project)
                 </div>
+                <div class="disclaimer">
+                    <h3>(Please click the project images to access the technical reports/PPTs for each project)<\h3>
+                <\div>
                 <div class="portfolioitems">
                     <div class="portfolioitem">
                         <div class="subtitle">
