@@ -72,7 +72,7 @@ body{
 }
 
 .active-nav-link {
-    border-bottom: 1px solid black;
+    border-bottom: 0px solid black;
 }
 
 .active-nav-link a{
