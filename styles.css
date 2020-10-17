@@ -83,7 +83,7 @@ body{
 .portfolioitems{
     display:grid;
     grid-template-columns: 1fr 1fr 1fr;
-    grid-template-rows: 7cm 7cm 7cm 7cm 7cm 7cm;
+    grid-template-rows: 11cm 11cm 11cm 11cm 11cm 11cm;
     }
 
 .portfolioitem{
@@ -105,11 +105,11 @@ body{
 
 .portfolioitem img {
     width: 90%;
-    height: 150px;
+    height: 300px;
 }
 
 .subtitle{
     font: italic;
-    font-size: 10pt;
+    font-size: 12pt;
     font-weight: 600;
 }
