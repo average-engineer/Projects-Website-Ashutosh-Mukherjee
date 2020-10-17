@@ -61,14 +61,6 @@
                     </div>
                     <div class="portfolioitem">
                         <div class="subtitle">
-                            Rankine Cycle Simulator
-                        </div>
-                        <div class="projectreportlink">
-                            <a href="https://skill-lync.com/projects/Rankine-Cycle-Simulator-46003"><img src="rankine cycle.jpg"></a>
-                        </div>
-                    </div>
-                    <div class="portfolioitem">
-                        <div class="subtitle">
                             Simulation of a double wishbone suspension for a simple automobile
                         </div>
                         <div class="projectreportlink">
@@ -137,6 +129,14 @@
                         </div>
                         <div class="projectreportlink">
                             <a href="https://skill-lync.com/projects/Linear-and-Cubic-curve-fitting-39329"><img src="curve fitting.gif"></a>
+                        </div>
+                    </div>
+                    <div class="portfolioitem">
+                        <div class="subtitle">
+                            Rankine Cycle Simulator
+                        </div>
+                        <div class="projectreportlink">
+                            <a href="https://skill-lync.com/projects/Rankine-Cycle-Simulator-46003"><img src="rankine cycle.jpg"></a>
                         </div>
                     </div>
                     <div class="portfolioitem">
