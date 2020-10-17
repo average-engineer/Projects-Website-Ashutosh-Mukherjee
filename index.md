@@ -32,7 +32,7 @@
                             Design and Analysis of Propellers for Slow-Flyer Quad-Copters
                         </div>
                         <div class="projectreportlink">
-                            <a href="https://drive.google.com/file/d/124Ie59rlUkYplcSK6MF4sucHWaTvuJZX/view?usp=sharing"><img src="Images\PJP-N-6.jpg"></a>
+                            <a href="https://drive.google.com/file/d/124Ie59rlUkYplcSK6MF4sucHWaTvuJZX/view?usp=sharing"><img src="PJP-N-6.jpg"></a>
                         </div>
                     </div>
                     <div class="portfolioitem">
@@ -40,7 +40,7 @@
                             Test Rig for measuring Propeller performance
                         </div>
                         <div class="projectreportlink">
-                            <a href="https://drive.google.com/file/d/10leDqqugseJWh87E4ijjPm0SYHiKU257/view?usp=sharing"><img src="Images\prop test rig.PNG"></a>
+                            <a href="https://drive.google.com/file/d/10leDqqugseJWh87E4ijjPm0SYHiKU257/view?usp=sharing"><img src="prop test rig.PNG"></a>
                         </div>
                     </div>
                     <div class="portfolioitem">
@@ -48,7 +48,7 @@
                             Development of a Solver based on Blade Element Theory
                         </div>
                         <div class="projectreportlink">
-                            <a href="https://drive.google.com/file/d/1opycwGFeuGt04C2EPkXNKIeNUmBQGrWu/view?usp=sharing"><img src="Images\blade element theory.png"></a>
+                            <a href="https://drive.google.com/file/d/1opycwGFeuGt04C2EPkXNKIeNUmBQGrWu/view?usp=sharing"><img src="blade element theory.png"></a>
                         </div>
                     </div>
                     <div class="portfolioitem">                                                         
@@ -56,7 +56,7 @@
                             Test Rig for measuring vibration characteristics of a beam
                         </div>
                         <div class="projectreportlink">
-                            <a href="https://drive.google.com/file/d/1jQBnnBkjfbZDGj276emk30pdCYBCETH9/view?usp=sharing"><img src="Images\Test Rig.png"></a>
+                            <a href="https://drive.google.com/file/d/1jQBnnBkjfbZDGj276emk30pdCYBCETH9/view?usp=sharing"><img src="Test Rig.png"></a>
                         </div>
                     </div>
                     <div class="portfolioitem">
@@ -64,7 +64,7 @@
                             Rankine Cycle Simulator
                         </div>
                         <div class="projectreportlink">
-                            <a href="https://skill-lync.com/projects/Rankine-Cycle-Simulator-46003"><img src="Images\rankine cycle.jpg"></a>
+                            <a href="https://skill-lync.com/projects/Rankine-Cycle-Simulator-46003"><img src="rankine cycle.jpg"></a>
                         </div>
                     </div>
                     <div class="portfolioitem">
@@ -72,7 +72,7 @@
                             Simulation of a double wishbone suspension for a simple automobile
                         </div>
                         <div class="projectreportlink">
-                            <a href="https://skill-lync.com/projects/Simulation-of-a-simple-automobile-96067"><img src="Images\simple automobile.png"></a>
+                            <a href="https://skill-lync.com/projects/Simulation-of-a-simple-automobile-96067"><img src="simple automobile.png"></a>
                         </div>
                     </div>
                     <div class="portfolioitem">
@@ -80,7 +80,7 @@
                             Forward of a 2R Robotic Arm
                         </div>
                         <div class="projectreportlink">
-                            <a href="https://skill-lync.com/projects/Simulation-of-forward-kinematics-of-a-2R-Robotic-Arm-20145"><img src="Images\robotic arm.png"></a>
+                            <a href="https://skill-lync.com/projects/Simulation-of-forward-kinematics-of-a-2R-Robotic-Arm-20145"><img src="robotic arm.png"></a>
                         </div>
                     </div>
                     <div class="portfolioitem">
@@ -88,7 +88,7 @@
                             Slider Crank Mechanism Simulation
                         </div>
                         <div class="projectreportlink">
-                            <a href="https://skill-lync.com/projects/Slider-Crank-Mechanism-Simulation-38417"><img src="Images\slider crank.jpg"></a>
+                            <a href="https://skill-lync.com/projects/Slider-Crank-Mechanism-Simulation-38417"><img src="slider crank.jpg"></a>
                         </div>
                     </div>
                     <div class="portfolioitem">
@@ -96,7 +96,7 @@
                             Simulation of a Cam-follower mechanism
                         </div>
                         <div class="projectreportlink">
-                            <a href="https://skill-lync.com/projects/Cam-Follower-Mechanism-with-3D-Contact-30765"><img src="Images\Model.PNG"></a>
+                            <a href="https://skill-lync.com/projects/Cam-Follower-Mechanism-with-3D-Contact-30765"><img src="Model.PNG"></a>
                         </div>
                     </div>
                     <div class="portfolioitem">
@@ -104,7 +104,7 @@
                             Analysis of the Geneva Mechanism
                         </div>
                         <div class="projectreportlink">
-                            <a href="https://skill-lync.com/projects/Analysis-of-the-Geneva-Mechanism-56971"><img src="Images\geneva mech.png"></a>
+                            <a href="https://skill-lync.com/projects/Analysis-of-the-Geneva-Mechanism-56971"><img src="geneva mech.png"></a>
                         </div>
                     </div>
                     <div class="portfolioitem">
@@ -112,7 +112,7 @@
                             Linear and Cubic curve fitting using MATLAB
                         </div>
                         <div class="projectreportlink">
-                            <a href="https://skill-lync.com/projects/Linear-and-Cubic-curve-fitting-39329"><img src="Images\curve fitting.gif"></a>
+                            <a href="https://skill-lync.com/projects/Linear-and-Cubic-curve-fitting-39329"><img src="curve fitting.gif"></a>
                         </div>
                     </div>
                     <div class="portfolioitem">
@@ -120,7 +120,7 @@
                             Parsing of the NASA Thermodynamic Data File
                         </div>
                         <div class="projectreportlink">
-                            <a href="https://skill-lync.com/projects/Parsing-of-the-NASA-Thermodynamic-Data-file-46498"><img src="Images\nasa therm dat.png"></a>
+                            <a href="https://skill-lync.com/projects/Parsing-of-the-NASA-Thermodynamic-Data-file-46498"><img src="nasa therm dat.png"></a>
                         </div>
                     </div>
                     <div class="portfolioitem">
@@ -128,7 +128,7 @@
                             Stalagmite function optimization using Genetic Algorithm
                         </div>
                         <div class="projectreportlink">
-                            <a href="https://skill-lync.com/projects/Stalagmite-Function-Optimization-using-Genetic-Algorithm-36028"><img src="Images\genetic algorithm.png"></a>
+                            <a href="https://skill-lync.com/projects/Stalagmite-Function-Optimization-using-Genetic-Algorithm-36028"><img src="genetic algorithm.png"></a>
                         </div>
                     </div>
                     <div class="portfolioitem">
@@ -136,7 +136,7 @@
                             Analysis of a Simple Pendullum
                         </div>
                         <div class="projectreportlink">
-                            <a href="https://skill-lync.com/projects/Simulation-of-a-simple-pendulum-86042"><img src="Images\pendulum.png"></a>
+                            <a href="https://skill-lync.com/projects/Simulation-of-a-simple-pendulum-86042"><img src="pendulum.png"></a>
                         </div>
                     </div>
                     <div class="portfolioitem">
@@ -144,7 +144,7 @@
                             Otto Cycle Simulator
                         </div>
                         <div class="projectreportlink">
-                            <a href="https://skill-lync.com/projects/Otto-Cycle-27541"><img src="Images\otto cycle.jpg"></a>
+                            <a href="https://skill-lync.com/projects/Otto-Cycle-27541"><img src="otto cycle.jpg"></a>
                         </div>
                     </div>
                     <div class="portfolioitem">
@@ -152,7 +152,7 @@
                             Analysis of the flow over a Bicycle using MATLAB
                         </div>
                         <div class="projectreportlink">
-                            <a href="https://skill-lync.com/projects/Flow-over-a-bicycle-32467"><img src="Images\flow over cycle.png"></a>
+                            <a href="https://skill-lync.com/projects/Flow-over-a-bicycle-32467"><img src="flow over cycle.png"></a>
                         </div>
                     </div>
                 </div>
