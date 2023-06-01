@@ -258,11 +258,15 @@ body{
     padding-right: 100px;
 }  */
 
-.portfolioitem img {
-    width: 90%;
-    height: 300px;
+.portfolioitem1 img {
+    width: 100%;
+    height: 200px;
 }
 
+.portfolioitem img {
+    width: 100%;
+    height: 300px;
+}
 .subtitle{
     font: italic;
     font-size: 12pt;
