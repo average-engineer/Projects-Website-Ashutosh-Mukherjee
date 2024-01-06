@@ -267,4 +267,7 @@ body{
     font: italic;
     font-size: 12pt;
     font-weight: 600;
+    padding-left: 100px;
+    padding-right: 100px;
+    text-align: center;
 }

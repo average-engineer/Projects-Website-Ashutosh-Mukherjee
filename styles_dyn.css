@@ -238,7 +238,7 @@ body{
 .portfolioitems{
     display:grid;
     grid-template-columns: 1fr 1fr 1fr;
-    grid-template-rows: 11cm 11cm 11cm 11cm 11cm 11cm;
+    grid-template-rows: 11cm 11cm 11cm 11cm;
     }
 
 .portfolioitem{
@@ -267,4 +267,7 @@ body{
     font: italic;
     font-size: 12pt;
     font-weight: 600;
+    padding-left: 100px;
+    padding-right: 100px;
+    text-align: center;
 }
